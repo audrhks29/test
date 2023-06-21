@@ -4,7 +4,7 @@
 | FE/BE | 이름   | Github                               | 작업사항                                                        |
 | :---- | :----- | :----------------------------------- | :-------------------------------------------------------------- |
 | FE    | 홍길동 | [@abcd](http://github.com/audrhks29) | [회사소개](http://www.naver.com), [회원가입](http:www.daum.net) |
-| FE    | 황재성 | @aaaaaa                              | [명관이 놀아주기](http://:github.com)                           |
+| FE    | 황재성 | @aaaaaa                              | [포토샵](http://:github.com)                           |
 
 ## 프로젝트 영상
 <img src="./images/iron_man_pixel_gif_by_maytheforcebewithyou_dchsrbt.gif">
